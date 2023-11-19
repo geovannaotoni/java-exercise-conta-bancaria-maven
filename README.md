@@ -1,5 +1,5 @@
 # 🏦 Sistema de validação de Contas Bancárias
-Este projeto é uma aplicação Java cujo objetivo é implementar um sistema de apoio à validação de contas bancárias. O sistema garante que o formato das contas informadas esteja de acordo com as diretrizes da instituição financeira.
+Este projeto é uma aplicação Java que implementa um sistema de apoio à validação de contas bancárias. O sistema garante que o formato das contas informadas esteja de acordo com as diretrizes da instituição financeira.
 
 ## ⚙️ Instalação das dependências
 Para instalar as dependências do projeto, execute o comando `mvn install`. Isso fará o download das dependências configuradas no `pom.xml`, além de baixar as dependências indiretas.
