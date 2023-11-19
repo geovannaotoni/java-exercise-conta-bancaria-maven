@@ -12,7 +12,7 @@ O Checkstyle é usado para fazer a análise estática do código. Este projeto j
 
 ## ✅ Funcionalidades implementadas
 ### 1. Adicionar dependência no projeto
-Levando em consideração que o gerenciador de dependências do projeto é o Maven, foi adicionada a dependência Apache Commons Lang versão 3.11 no arquivo `pom.xml`. Essa dependência possui a classe de utilitários `StringUtils`, que fornece vários métodos para trabalhar com strings em Java.
+Levando em consideração que o gerenciador de dependências do projeto é o Maven, foi adicionada a dependência [Apache Commons Lang versão 3.11](https://mvnrepository.com/artifact/org.apache.commons/commons-lang3) no arquivo `pom.xml`. Essa dependência possui a classe de utilitários `StringUtils`, que fornece vários métodos para trabalhar com strings em Java.
 
 ### 2. Implementar formatação do número da conta
 No método `formatAccountNumber` da classe `AccountNumberFormatter`, é feita a formatação do número da conta de acordo com as seguintes regras:
